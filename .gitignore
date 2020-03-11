@@ -1,0 +1,8 @@
+*.avi
+*.AVI
+*.mp4
+*.MP4
+*.m4v
+/frames
+/flow
+.cache*
